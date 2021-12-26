@@ -15,7 +15,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
@@ -26,6 +26,12 @@
          "id":6,
          "name":"exitLobby",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitURL",
+                 "type":"string",
+                 "value":"world:\/\/lobby\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":36,
@@ -39,7 +45,7 @@
          "name":"grass",
          "opacity":0.64,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
@@ -51,7 +57,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -62,7 +68,7 @@
          "name":"tipi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
@@ -112,16 +118,6 @@
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"exitURL",
-                         "type":"string",
-                         "value":"world:\/\/lobby\/main.json"
-                        }]
-                }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }, 
