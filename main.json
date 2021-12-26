@@ -30,7 +30,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"world:\/\/lobby\/pcb.json#start_radiotipi"
                 }],
          "type":"tilelayer",
          "visible":true,
