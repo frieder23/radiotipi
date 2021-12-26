@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"innen.json"
+                 "value":"\/innen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
