@@ -70,6 +70,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ChCh Map (cc0by) https:\/\/chch.it"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -84,6 +90,12 @@
          "imagewidth":400,
          "margin":0,
          "name":"radiotipi-de(400x533)",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Radiotipi (cc0by) https:\/\/radiotipi.de"
+                }],
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -98,9 +110,25 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ChCh Map (cc0by) https:\/\/chch.it"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"ChCh Map (cc0by) https:\/\/chch.it"
+                        }]
+                }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }],
