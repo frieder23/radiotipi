@@ -61,7 +61,7 @@
          "height":23,
          "id":7,
          "name":"radio",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"audioLoop",
