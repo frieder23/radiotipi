@@ -84,7 +84,7 @@
          "height":23,
          "id":1,
          "name":"ground",
-         "opacity":0.49,
+         "opacity":0.88,
          "type":"tilelayer",
          "visible":true,
          "width":23,
