@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/pcb.json#start_radiotipi\n"
+                 "value":"world:\/\/lobby\/main.json#start_radiotipi\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/radiotipi\/innen.json#start_radiotipi"
+                 "value":"innen.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,

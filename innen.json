@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/radiotipi\/main.json#start_radiotipi"
+                 "value":"main.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
