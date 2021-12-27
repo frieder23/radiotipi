@@ -7,7 +7,7 @@
          "height":23,
          "id":2,
          "name":"start",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"startLayer",
@@ -25,12 +25,12 @@
          "height":23,
          "id":4,
          "name":"exit main",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"world:\/\/radiotipi\/main.json#start_radiotipi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -43,7 +43,7 @@
          "height":23,
          "id":5,
          "name":"silent",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"silent",
@@ -61,7 +61,7 @@
          "height":23,
          "id":7,
          "name":"radio",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"audioLoop",

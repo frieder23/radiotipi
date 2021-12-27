@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/innen.json"
+                 "value":"world:\/\/radiotipi\/innen.json#start_radiotipi"
                 }],
          "type":"tilelayer",
          "visible":true,
