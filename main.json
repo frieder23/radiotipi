@@ -15,7 +15,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
@@ -33,7 +33,7 @@
                  "value":"world:\/\/lobby\/pcb.json#start_radiotipi\n"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"assets\/innen.json"
+                 "value":"innen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -63,7 +63,7 @@
          "name":"grass",
          "opacity":0.64,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
