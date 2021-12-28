@@ -132,7 +132,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.mixcloud.com\/signal23\/radiotipi21x-pausenmusik\/"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
