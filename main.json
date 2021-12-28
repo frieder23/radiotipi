@@ -128,12 +128,6 @@
          "id":13,
          "name":"audio",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":""
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":36,
