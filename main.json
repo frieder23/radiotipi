@@ -118,7 +118,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"jitsiRoomjitsiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"radiotipi"
                 }],
