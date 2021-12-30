@@ -162,6 +162,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE!)))"
                 }],
          "type":"tilelayer",
          "visible":true,
