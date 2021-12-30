@@ -122,7 +122,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"LEERTASTE)))"
+                 "value":"press SPACE to receive the HOLY 23)))"
                 }],
          "type":"tilelayer",
          "visible":true,
